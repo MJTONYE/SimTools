@@ -25,8 +25,4 @@ Estimate how many adult lynx must be released at time t = 0 so that the populati
 ```bash
 python src/lynx_simulation.py
 
-Add README
-=======
-# SimTools-Projekt
-
 
