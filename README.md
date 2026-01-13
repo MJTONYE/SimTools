@@ -17,7 +17,7 @@ Estimate how many adult lynx must be released at time t = 0 so that the populati
 - `src/lynx_simulation.py`: main simulation script
 
 ## Requirements
-- Python 3
+- Python 3.14.0
 - numpy
 
 ## Run
