@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Lynx Population Viability (Monte Carlo)
 
 This project contains a Monte Carlo simulation studying the viability of a lynx population.
@@ -28,5 +28,5 @@ python src/lynx_simulation.py
 Add README
 =======
 # SimTools-Projekt
-Gruppenarbeit im Bereich statistische Simulation
->>>>>>> e4a31d6 (Add full project structure)
+
+
