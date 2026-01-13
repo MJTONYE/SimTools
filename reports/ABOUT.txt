@@ -2,9 +2,5 @@ Datum: 05.11.2025
 Autoren: Mary-Joyce Tonye & Amina Degen Abdi
 Pythonversion: 3.14.0
 Paketversionen: see requirements.txt
-Kommentar:
-<<<<<<< HEAD
-Diese Datei dokumentiert die exakte Umgebung für Reproduzierbarkeit.
-=======
-Diese Datei dokumentiert die exakte Umgebung für Reproduzierbarkeit.
->>>>>>> e4a31d6 (Add full project structure)
+
+
