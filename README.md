@@ -1,4 +1,4 @@
-# Lynx Population Simulation (Monte Carlo)
+# Lynx Population Viability (Monte Carlo)
 
 This project contains a Monte Carlo simulation studying the viability of a lynx population.
 
