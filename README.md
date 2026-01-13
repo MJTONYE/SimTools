@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lynx Population Viability (Monte Carlo)
 
 This project contains a Monte Carlo simulation studying the viability of a lynx population.
@@ -25,3 +26,7 @@ Estimate how many adult lynx must be released at time t = 0 so that the populati
 python src/lynx_simulation.py
 
 Add README
+=======
+# SimTools-Projekt
+Gruppenarbeit im Bereich statistische Simulation
+>>>>>>> e4a31d6 (Add full project structure)
