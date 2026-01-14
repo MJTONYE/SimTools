@@ -162,9 +162,9 @@ print(estimate_p_hat(A0=100, J_total=J_TOTAL, params=params, R=1000, seed=SEED))
 
 print("\nMinimal A0 for target probability (J_total=0):")
 best = find_min_A0(params=params, J_total=J_TOTAL, target=0.95, R=1000, seed=SEED,
-                   start_A=50, step=25, maxA=5000, use_ci_lower=True)
+                   start_A=50, step=25, maxA=500, use_ci_lower=True)
 print(best)
 
-Add Monte Carlo lynx simulation
+
 
 
